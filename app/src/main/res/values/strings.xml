@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MovieTest</string>
+    <string name="no_net">Отсуствует интернет</string>
+</resources>
